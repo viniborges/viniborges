@@ -1,6 +1,6 @@
 ![Header image](https://raw.githubusercontent.com/viniborges/viniborges/main/assets/github-header.jpg)
 
-I'm a father, passionate developer and tech enthusiast who is always up to learn about new things.
+I'm a father, passionate developer (since 2010) and tech enthusiast who is always up to learn about new things.
 
 <center>
 
@@ -35,7 +35,7 @@ I'm a father, passionate developer and tech enthusiast who is always up to learn
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-2C363F?style=flat&logo=visualstudiocode)
 ![Rider](https://img.shields.io/badge/-Rider-2C363F?style=flat&logo=rider)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-2C363F?style=flat&logo=visualstudio)
-![Postman](https://img.shields.io/badge/-Postman-2C363F?style=flat&logo=postman)  
+![Postman](https://img.shields.io/badge/-Postman-2C363F?style=flat&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-2C363F?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-2C363F?style=flat&logo=canva)
 ![Notion](https://img.shields.io/badge/-Notion-2C363F?style=flat&logo=notion)
