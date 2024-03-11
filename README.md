@@ -49,6 +49,12 @@ I'm a father, passionate developer (since 2010) and tech enthusiast who is alway
 [![AzureAI](https://img.shields.io/badge/-Azure%20AI-2C363F?style=flat&logo=microsoftazure&link=https://azure.microsoft.com/en-us/solutions/ai)](https://azure.microsoft.com/en-us/solutions/ai)
 [![WebAssembly](https://img.shields.io/badge/-WebAssembly-2C363F?style=flat&logo=webassembly&link=https://webassembly.org/)](https://webassembly.org)
 
+---
+
+### 🎧 Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viniborges&cover_image=true&theme=default&show_offline=false&background_color=2c3f36&interchange=false&bar_color=f8007b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!-- DevOps
 Git
 Github
