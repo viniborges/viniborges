@@ -53,7 +53,7 @@ I'm a father, passionate developer (since 2010) and tech enthusiast who is alway
 
 ### 🎧 Listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viniborges&cover_image=true&theme=default&show_offline=false&background_color=2c3f36&interchange=false&bar_color=f8007b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=viniborges&cover_image=true&theme=default&show_offline=false&background_color=2C363F&interchange=false&bar_color=f8007b&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <!-- DevOps
 Git
